@@ -1,4 +1,2 @@
-# hello-github
-just a test.
-
-this is a test!
+This is a test for cat > file.
+Ctrl + D to finish.
